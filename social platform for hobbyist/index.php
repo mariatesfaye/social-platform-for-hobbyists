@@ -1,7 +1,7 @@
 <?php include "layouts/header.php"; ?>
 <div class="container">
 
-<center><h2 style="color:white; margin-top:20%">Welcome to simple chat system.</h2></center>
+<center><h2 style="color:#FFFFFF; margin-top:20%">Welcome Hobbyists, Let's gather here.</h2></center>
 </div>
 
 </body>
