@@ -10,7 +10,7 @@ if($_POST)
 	$number=$_POST['number'];
 	$address=$_POST['address'];
 	
-	$sql="INSERT INTO `register`(`name`, `email`, `password`, `number`, `address`) VALUES ('".$name."','".$email."','".$password."','".$number."','".$address."')";
+	$sql="INSERT INTO `register`(`name`, `email`, `password`, `number`, `address`) VALUES ('".$name."','".$email."','".$password."','".$number."','".$address."')" ;
 
 	$query = mysqli_query($conn,$sql);
 	if($query)
@@ -23,6 +23,6 @@ if($_POST)
 	{
 		echo "Something went wrong";
 	}
-	
+
 	}
 ?>
