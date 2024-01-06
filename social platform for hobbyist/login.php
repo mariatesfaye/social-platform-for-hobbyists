@@ -1,10 +1,10 @@
 <?php include "layouts/header.php"; ?>
 <style>
   h2{
-color:white;
+color:#FFFFFF;
   }
   label{
-color:white;
+color:#FFFFFF;
   }
   .container {
     margin-top: 5%;
