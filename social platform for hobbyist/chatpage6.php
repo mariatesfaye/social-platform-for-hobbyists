@@ -11,10 +11,10 @@
 ?>
 <style>
   h2{
-color:white;
+color:#FFFFFF;
   }
   label{
-color:white;
+color:#FFFFFF;
   }
   span{
 	  color:#673ab7;
