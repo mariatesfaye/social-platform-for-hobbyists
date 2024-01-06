@@ -11,7 +11,7 @@
 ?>
 <style>
   h2{
-color:white;
+color:#FFFFFF;
   }
   label{
 color:white;
