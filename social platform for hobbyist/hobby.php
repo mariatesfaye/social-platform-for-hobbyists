@@ -2,7 +2,7 @@
 
 <div class="container">
 
-<center><h2 style="color:white; margin-top:10%;">
+<center><h2 style="color:#FFFFFF; margin-top:10%;">
     <a href="chatpage.php" class="btn btn-primary">baking</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="chatpage2.php" class="btn btn-primary">swimming</a>&nbsp;&nbsp;&nbsp;
     <a href="chatpage3.php" class="btn btn-primary">dancing</a><br><br>
@@ -19,6 +19,7 @@
     <a href="chatpage14.php" class="btn btn-primary">acting</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="chatpage15.php" class="btn btn-primary">exercising</a>
 </h2></center>
+    
 </div>
 
 </body>
